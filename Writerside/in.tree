@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element topic="系统镜像配置.md"/>
+    <toc-element topic="系统配置.md"/>
+    <toc-element topic="软件管理.md"/>
+    <toc-element topic="浏览器.md"/>
+    <toc-element topic="文本编辑器.md"/>
+    <toc-element topic="代码编辑器.md"/>
+    <toc-element topic="Java-JDK.md"/>
+    <toc-element topic="Python-pyenv.md"/>
+    <toc-element topic="Node-js-nvm.md"/>
+    <toc-element topic="PHP.md"/>
+    <toc-element topic="Selenium.md"/>
+    <toc-element topic="视频播放器.md"/>
+    <toc-element topic="聊天软件.md"/>
+    <toc-element topic="截图软件.md"/>
+    <toc-element topic="远程桌面.md"/>
+    <toc-element topic="代理软件.md"/>
+    <toc-element topic="下载软件.md"/>
+    <toc-element topic="取色软件.md"/>
+</instance-profile>
